@@ -1,0 +1,1 @@
+<h1>Error 404. No se ha encontrado post</h1><?php /**PATH /media/fraoli/Seagate Expansion Drive/DAW/DWES/laravel/blogFran/resources/views/errors/404.blade.php ENDPATH**/ ?>

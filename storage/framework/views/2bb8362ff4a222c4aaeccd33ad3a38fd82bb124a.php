@@ -1,0 +1,1 @@
+<h1>Error 404. No se ha encontrado post</h1><?php /**PATH /home/fraoli/Laravel/blogFran/resources/views/errors/404.blade.php ENDPATH**/ ?>
